@@ -46,6 +46,26 @@ Para o desenvolvimento do front-end utilizando React, as seguintes tecnologias s
   </tr>
 </table>
 
+## Instalação
+
+Certifique-se de ter o Node.js instalado em seu computador. Você pode baixá-lo e instalá-lo a partir do site oficial: https://nodejs.org
+
+1. Clone o repositório do projeto para o seu computador:
+
+   ``` git clone git@github.com:matheusPrado007/project-frontend-online-store.git```
+   
+2. Acesse o diretório do projeto clonado:
+``` cd project-frontend-online-store ```
+3. Instale as dependências do projeto:
+``` npm install ```
+4. Inicie o servidor de desenvolvimento:
+``` npm start ```
+
+O projeto será aberto automaticamente em seu navegador padrão.
+
+
+Certifique-se de que todas as tecnologias mencionadas estejam instaladas corretamente antes de executar o projeto.
+
 ## Contribuidores
 
 - [@Ligia Bicalho](https://github.com/ligiabicalho)
