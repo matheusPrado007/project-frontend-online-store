@@ -70,7 +70,7 @@ Certifique-se de que todas as tecnologias mencionadas estejam instaladas correta
 
 - [@Ligia Bicalho](https://github.com/ligiabicalho)
 - [@Joana Maria dos Santos  ](https://github.com/joanamds)
-- [@Willian Alves dos Santos Jr ](https://github.com/williamasjr)
+- [@William Alves dos Santos Jr ](https://github.com/williamasjr)
 - [@Vinicius Canuto ](https://github.com/CanutoIX)
 - [@Matheus Prado ](https://[github.com/iagoViotti](https://github.com/matheusPrado007))
 
